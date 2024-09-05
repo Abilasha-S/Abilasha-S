@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing **Post Doc at AMU with a specialization in NLP and topic modelling.**
 
-- 🌱 Currently exploring/learning **Multimodal Topic Modelling**
+- 🌱 Currently exploring **Multimodal Topic Modelling**
 
 - 👯 I’m highly interested in **Machine Learning (ML),  Natural Language Processing (NLP), Deep Learning (DL), Time Series analysis domains.**
 
