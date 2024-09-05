@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I' am Abilasha S </h1>
-<h3 align="center">A Post Doctoral Rsearcher at Aix Marseille University! Machine Learning researcher with current focus on Natural Language Processing.</h3>
+<h3 align="center">Machine Learning researcher with focus on Natural Language Processing.</h3>
 
 
 - 🔭 I’m currently doing **Post Doc at AMU with a specialization in NLP and topic modelling.**
 
 - 🌱 Currently exploring **Multimodal Topic Modelling**
+
+- Developed open source projects on **Time Series Anomaly Detection and Extreme Event Prediction**
 
 - 👯 I’m highly interested in **Machine Learning (ML),  Natural Language Processing (NLP), Deep Learning (DL), Time Series analysis domains.**
 
