@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I' am Abilasha S </h1>
 <h3 align="center">A Post Doctoral Rsearcher at Aix Marseille University! Machine Learning researcher with current focus on Natural Language Processing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-sundar&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-sundar" /> </p>
 
 - 🔭 I’m currently doing **Post Doc at AMU with a specialization in NLP and topic modelling.**
 
