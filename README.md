@@ -6,7 +6,7 @@
 
 - 🌱 Currently exploring **Multimodal Topic Modelling**
 
-- Developed open source projects on **Time Series Anomaly Detection and Extreme Event Prediction** - DxtreMM, WaRTEm-AD, WRADMts
+- Developed open source projects on **Time Series Anomaly Detection and Extreme Event Prediction** - ([WRADMts](https://github.com/WRADMts/WRADMts), [DXtreMM](https://github.com/DXtreMM/DXtreMM_TSF/tree/main), [WaRTEm-AD](https://github.com/WaRTEm-AD/UnivariateAnomalydetection))
 
 - 👯 I’m highly interested in **Machine Learning (ML),  Natural Language Processing (NLP), Deep Learning (DL), Time Series analysis domains.**
 
